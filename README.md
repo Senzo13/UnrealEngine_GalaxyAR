@@ -26,8 +26,6 @@ Pour travailler sur ce projet, vous aurez besoin de :
 
 ## Structure de projet
 
-<p>⬇️ Vous devez compléter votre structure de dossier avec des éléments de projet Unreal Engine, comme ci-dessous ⬇️</p>
-
 ![Alt text](architecture.png)
 
 ## Contribution
