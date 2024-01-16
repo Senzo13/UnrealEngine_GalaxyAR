@@ -21,7 +21,14 @@ Pour travailler sur ce projet, vous aurez besoin de :
 
 1. Clonez le dépôt sur votre machine locale en utilisant `git clone`.
 2. Ouvrez le projet avec Unreal Engine 5.3.
-3. Compilez et exécutez le projet pour démarrer l'éditeur.
+3. Ajoutez les fichiers d'installation manquants si nécessaire.
+4. Compilez et exécutez le projet pour démarrer l'éditeur.
+
+## Structure de projet
+
+<p>⬇️ Vous devez compléter votre structure de dossier avec des éléments de projet Unreal Engine, comme ci-dessous ⬇️</p>
+
+![Alt text](architecture.png)
 
 ## Contribution
 
