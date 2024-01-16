@@ -1,0 +1,32 @@
+# Unreal Engine 4 gitignore
+Android_ASTC
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers de projet spécifiques
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.log
+*.vs/
+
+# Dossiers et fichiers de cache et de sauvegarde
+*.un~
+*.swp
+*.bak
+*.tmp
+*.temp
+Thumbs.db
+
+# Dossiers spécifiques aux systèmes
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
