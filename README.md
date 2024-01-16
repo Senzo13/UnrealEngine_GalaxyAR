@@ -33,13 +33,7 @@ Nous accueillons les contributions ! Si vous souhaitez contribuer, veuillez suiv
 4. Poussez vers la branche (`git push origin feature/AmazingFeature`).
 5. Ouvrez une Pull Request.
 
-## Licence
-
-Ce projet est sous licence XYZ. Veuillez voir le fichier `LICENSE` pour plus d'informations.
-
 ## Contact
-
-Votre Nom - @VotreTwitter - email@example.com
 
 Lien du Projet : [https://github.com/Senzo13/UnrealEngine_GalaxyAR](https://github.com/Senzo13/UnrealEngine_GalaxyAR)
 
